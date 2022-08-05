@@ -1,0 +1,17 @@
+C:\Users\pc\source\repos\LireFichierJson\LireFichierJson\bin\Debug\net6.0\LireFichierJson.exe
+C:\Users\pc\source\repos\LireFichierJson\LireFichierJson\bin\Debug\net6.0\LireFichierJson.deps.json
+C:\Users\pc\source\repos\LireFichierJson\LireFichierJson\bin\Debug\net6.0\LireFichierJson.runtimeconfig.json
+C:\Users\pc\source\repos\LireFichierJson\LireFichierJson\bin\Debug\net6.0\LireFichierJson.dll
+C:\Users\pc\source\repos\LireFichierJson\LireFichierJson\bin\Debug\net6.0\LireFichierJson.pdb
+C:\Users\pc\source\repos\LireFichierJson\LireFichierJson\obj\Debug\net6.0\LireFichierJson.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\LireFichierJson\LireFichierJson\obj\Debug\net6.0\LireFichierJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\LireFichierJson\LireFichierJson\obj\Debug\net6.0\LireFichierJson.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\LireFichierJson\LireFichierJson\obj\Debug\net6.0\LireFichierJson.AssemblyInfo.cs
+C:\Users\pc\source\repos\LireFichierJson\LireFichierJson\obj\Debug\net6.0\LireFichierJson.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\LireFichierJson\LireFichierJson\obj\Debug\net6.0\LireFichierJson.dll
+C:\Users\pc\source\repos\LireFichierJson\LireFichierJson\obj\Debug\net6.0\refint\LireFichierJson.dll
+C:\Users\pc\source\repos\LireFichierJson\LireFichierJson\obj\Debug\net6.0\LireFichierJson.pdb
+C:\Users\pc\source\repos\LireFichierJson\LireFichierJson\obj\Debug\net6.0\LireFichierJson.genruntimeconfig.cache
+C:\Users\pc\source\repos\LireFichierJson\LireFichierJson\obj\Debug\net6.0\ref\LireFichierJson.dll
+C:\Users\pc\source\repos\LireFichierJson\LireFichierJson\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\pc\source\repos\LireFichierJson\LireFichierJson\obj\Debug\net6.0\LireFichierJson.csproj.CopyComplete
